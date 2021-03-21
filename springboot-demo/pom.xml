@@ -16,6 +16,7 @@
     <modules>
         <module>formatter-spring-boot-starter</module>
         <module>auto-configuration-sample</module>
+        <module>autoconfig</module>
     </modules>
     <name>Spring Boot 深入分享示例代码</name>
     <properties>

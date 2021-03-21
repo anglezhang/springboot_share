@@ -104,3 +104,7 @@ private List<String> filter(List<String> configurations,
 ### Spring Boot 自动装配命名潜规则
 
 xxxxAutoConfiguration
+
+### Spring Boot 条件自动装配
+
+#### 理解`@ConditionalOnClass` 
