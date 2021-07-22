@@ -18,6 +18,7 @@
         <module>auto-configuration-sample</module>
         <module>autoconfig</module>
         <module>applicaitondemo</module>
+        <module>springBootStartDemo</module>
     </modules>
     <name>Spring Boot 深入分享示例代码</name>
     <properties>
