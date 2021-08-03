@@ -1,3 +1,5 @@
 # FailureAnalysisReporters
 org.springframework.boot.diagnostics.FailureAnalysisReporter=\
 cn.com.chinasoft.springEvent.diagnostics.MyFailureAnalysisReporter
+org.springframework.boot.diagnostics.FailureAnalyzers=\
+cn.com.chinasoft.springEvent.diagnostics.MyFailureAnalyzers
